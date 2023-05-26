@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Bmicalculator/static/css/main.7ca2141b.css",
+    "main.js": "/Bmicalculator/static/js/main.29fcb18e.js",
+    "static/js/787.a8efd68c.chunk.js": "/Bmicalculator/static/js/787.a8efd68c.chunk.js",
+    "static/media/Over.png": "/Bmicalculator/static/media/Over.e2c335b1fdbc5f9bb1d8.png",
+    "static/media/Healthy.png": "/Bmicalculator/static/media/Healthy.5f3419d45733be64d1f4.png",
+    "static/media/Under.png": "/Bmicalculator/static/media/Under.24d145e115ea9df32983.png",
+    "static/media/default.png": "/Bmicalculator/static/media/default.386bcf58a0dfb55343a6.png",
+    "static/media/P.jpg": "/Bmicalculator/static/media/P.370c882fab183ab8ef9f.jpg",
+    "index.html": "/Bmicalculator/index.html",
+    "main.7ca2141b.css.map": "/Bmicalculator/static/css/main.7ca2141b.css.map",
+    "main.29fcb18e.js.map": "/Bmicalculator/static/js/main.29fcb18e.js.map",
+    "787.a8efd68c.chunk.js.map": "/Bmicalculator/static/js/787.a8efd68c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ca2141b.css",
+    "static/js/main.29fcb18e.js"
+  ]
+}
