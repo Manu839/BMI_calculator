@@ -1,3 +1,4 @@
+![Screenshot 2023-06-26 223215](https://github.com/Manu839/Bmicalculator/assets/124304448/ccc40c2e-9234-4050-bad1-064ec1b94767)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
